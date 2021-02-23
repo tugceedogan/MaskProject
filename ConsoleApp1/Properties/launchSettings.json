@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Workaround": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}

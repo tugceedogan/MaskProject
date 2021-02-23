@@ -1,0 +1,4 @@
+C:\Users\90551\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Workaround.csprojAssemblyReference.cache
+C:\Users\90551\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Workaround.AssemblyInfoInputs.cache
+C:\Users\90551\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Workaround.AssemblyInfo.cs
+C:\Users\90551\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Workaround.csproj.CoreCompileInputs.cache
